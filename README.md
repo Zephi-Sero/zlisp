@@ -1,4 +1,4 @@
-### Z's Lisp Interpreter
+# Z's Lisp Interpreter
 
 ## Math
 
