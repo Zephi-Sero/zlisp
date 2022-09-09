@@ -1,0 +1,2 @@
+#!/bin/env sh
+pytest -vv --cov=zlisp/ --cov-report=html --cov-report=term
